@@ -13,7 +13,7 @@ public class Bankaccount {
             balance -= withdraw;
         }
         else{
-            System.out.println("Insufficient funds");
+            System.out.println("Insuffficient funds");
         }
      }
 
