@@ -1,3 +1,5 @@
+package abstraction;
+
 public class SuperAnimal {
     String name = "Animal";
 

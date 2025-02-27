@@ -1,3 +1,5 @@
+package Encapsulation;
+
 public class Bankaccount {
     double accountnumber;
     double balance;

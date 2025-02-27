@@ -1,6 +1,6 @@
 package SOLID.LSP;
 
-public class Instagram implements SocialMedia{
+public class Instagram extends SocialMedia{
     @Override
     public void chatWithFriend() {
 

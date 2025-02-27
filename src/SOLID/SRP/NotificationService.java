@@ -4,7 +4,7 @@ public class NotificationService {
 
     public void sendOTP(String medium){
         if(medium.equals("Email")){
-            //Use Javamailsender API
+            //Use JavaMailSender API
             //Write some logic
         }
         if(medium.equals("Mobile")){

@@ -1,6 +1,6 @@
 package SOLID.LSP;
 
-public class Whatsapp implements SocialMedia{
+public class Whatsapp extends SocialMedia{
     @Override
     public void chatWithFriend() {
 

@@ -1,3 +1,5 @@
+package abstraction;
+
 public abstract class AbstractAnimal {
     abstract void sound();
 

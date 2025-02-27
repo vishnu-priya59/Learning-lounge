@@ -1,6 +1,6 @@
 package SOLID.LSP;
 
-public class Facebook implements SocialMedia{
+public class Facebook extends SocialMedia{
     @Override
     public void chatWithFriend() {
 
